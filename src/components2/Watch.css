@@ -1,0 +1,99 @@
+.watch{
+    height: 100vh;
+    overflow-y: auto;
+}
+.watchOuter{
+    padding-top: 180px;
+    display: flex;
+    align-items: center;
+    background-color: #0F0E17;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* height: 700px; */
+    gap: 40px;
+    /* overflow-y: auto; */
+    padding-bottom: 150px;
+}
+
+.watchInner1{
+    height: 250px;
+    width: 80vw;
+    background-color: #4760FF;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.watchInner1 > .watchInner1left{
+    display: flex;
+    flex-direction: column ;
+    gap: 20px;
+}
+.watchInner1left > h1{
+    font-size: 46.1025px;
+    line-height: 26.7395px;
+    font-weight: bold;
+}
+.watchInner1left > h6{
+    font-size: 20.2851px;
+    line-height: 26.7395px;
+    font-weight: 700;
+    font-family:"DM Sans", sans-serif;    
+}
+.watchInner1right > button{
+    color: #0F0E17;
+    background-color: #FFFFFF;
+    font-size: 18.441px;
+    font-weight: 700;
+    border-radius: 11.0646px;
+    width: 169.594px;
+    height: 59.9219px;
+    border: none;
+}
+
+#watchLatestSermons{
+    color: #FFFFFF;
+    font-size: 29.8744px;
+
+}
+.watchCard{
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    gap: 15px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.watchCard > h6{
+    font-size: 20.285px;
+    padding-left: 10px;
+
+}
+.watchCard > img{
+    border-radius: 15px;
+}
+.watchInner2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-left: 100px;
+    /* border-radius: 15px; */
+}
+.watchCardInner{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.watchCardInner > p{
+    font-size: 16.5969px;
+    color: #797881;
+    padding-left: 10px;
+}
+/* @media (max-width:500px) {
+    .watchOuter{    
+        display: flex;
+        flex-direction: column;
+    }
+} */

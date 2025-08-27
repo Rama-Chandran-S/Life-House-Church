@@ -1,0 +1,11 @@
+.giving{
+    height: 100vh;
+    overflow-y: auto;
+}
+
+#whywegive{
+    font-size: 129.087px;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 500;
+  padding-top: 50px;
+}

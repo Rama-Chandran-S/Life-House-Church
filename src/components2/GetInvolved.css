@@ -1,0 +1,19 @@
+.get{
+    height: 100vh;
+    overflow-y: auto;
+}
+#signup{
+    height: 50px;
+  width: 120px;
+  border-radius: 10px;
+  font-weight: bold;
+  color:white;
+  background-color: #4760FF;
+  font-size: 18px;
+  border: none;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.getright{
+    padding-bottom: 80px;
+}

@@ -1,0 +1,12 @@
+.Ministries{
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.minisouter > img{
+    height: 500px;
+    width: 1000px;
+    border-radius: 15px;
+    margin-left: 180px;
+    margin-bottom:100px;
+}

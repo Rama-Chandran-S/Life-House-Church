@@ -1,0 +1,42 @@
+.eventsouter{
+    height: 100vh;
+    overflow-y: auto;
+    padding-top: 100px;
+    background-color: #0F0E17;
+    color: #FFFFFF;
+}
+
+.eventsInner{
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    width: 100vw;
+    /* height: 500px; */
+    justify-content: space-evenly;
+    gap: 20px;
+    padding-bottom: 100px;
+    
+}
+
+.eventcard{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #191821;
+    /* padding: 10px; */
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.eventcard > img{
+    border-radius: 15px 15px 0 0;
+}
+.eventcard > h2{
+    padding: 10px;
+    padding-left: 40px ;
+}
+.eventcard > p{
+    padding: 10px;
+    padding-bottom: 30px;
+    padding-left: 40px ;
+}

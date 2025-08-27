@@ -1,0 +1,32 @@
+.givingCardOuter{
+    height: 55vh;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+.givingCardOuter > .givingCardInner{
+    height: 45vh;
+    width: 300px;
+    /* background-color:red; */
+    /* display: flex;
+    gap: 10px;
+    flex-direction: column; */
+}
+
+.givingCardInner h2{
+    font-size:28px;
+    line-height: 26.7395px;
+    font-weight: 700;
+    /* color: #0F0E17;
+    background-color: #F7F9FC; */
+    padding-bottom: 20px;
+}
+
+.givingCardOuter > .givingCardInner p{
+    font-size: 18.441px;
+    line-height: 26.7395px;
+    font-weight: 400;
+    /* color: #0F0E17;
+    background-color: #F7F9FC; */
+}
