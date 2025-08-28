@@ -23,14 +23,14 @@ The goal of this project is to replicate a real-world website structure while pr
 
 ## 📂 Project Structure
 src/
-├── components/ # Navbar, Footer, Section components
-├── pages/ # Home, About, Services, Contact
-├── App.js # Main app with routing
-├── index.js # Entry point
+├── components/ # Navbar, Footer, Section components.
+├── pages/ # Home, About, Services, Contact.
+├── App.js # Main app with routing.
+├── index.js # Entry point.
 
-##📖 Learning Highlights
-Building with React Components and Props
-Implementing Routing with React Router
-Creating a real-world website clone for hands-on learning
-Styling with CSS for responsive and clean design
-Deploying projects on Netlify
+## 📖 Learning Highlights
+- Building with React Components and Props.
+- Implementing Routing with React Router.
+- Creating a real-world website clone for hands-on learning.
+- Styling with CSS for responsive and clean design.
+- Deploying projects on Netlify.
