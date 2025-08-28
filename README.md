@@ -1,12 +1,36 @@
-# React + Vite
+# Life House Church Clone (React Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+This project is a **clone of the Life House Church official website**, created using **React.js** and **CSS**.  
+It demonstrates modern web development practices with a focus on **UI design, page navigation, and component-based architecture**.  
+The goal of this project is to replicate a real-world website structure while practicing **front-end development skills**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[Click here to view the project](https://lifehousechurch.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- **Responsive Navbar** with multiple sections  
+- **Homepage layout** inspired by the original Life House Church website  
+- **Informational sections** like About, Services, and Contact  
+- **Smooth navigation** between pages using React Router  
+- **Reusable React Components** for modular development  
+- **Styled with CSS** for a professional and responsive UI  
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Frontend:** React.js  
+- **Styling:** CSS  
+- **Deployment:** Netlify  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+src/
+├── components/ # Navbar, Footer, Section components
+├── pages/ # Home, About, Services, Contact
+├── App.js # Main app with routing
+├── index.js # Entry point
+
+##📖 Learning Highlights
+Building with React Components and Props
+Implementing Routing with React Router
+Creating a real-world website clone for hands-on learning
+Styling with CSS for responsive and clean design
+Deploying projects on Netlify
