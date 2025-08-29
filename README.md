@@ -11,7 +11,7 @@ The goal of this project is to replicate a real-world website structure while pr
 ## ✨ Features
 - **Responsive Navbar** with multiple sections  
 - **Homepage layout** inspired by the original Life House Church website  
-- **Informational sections** like About, Services, and Contact  
+- **Informational sections** like About, Get Involved, Ministries,  Events, Giving and Watch  
 - **Smooth navigation** between pages using React Router  
 - **Reusable React Components** for modular development  
 - **Styled with CSS** for a professional and responsive UI  
@@ -24,8 +24,11 @@ The goal of this project is to replicate a real-world website structure while pr
 ## 📂 Project Structure
 src/
 ├── components/ # Navbar, Footer, Section components.
-├── pages/ # Home, About, Services, Contact.
+
+├── pages/ # Home, About, Get Involved, Ministries,  Events, Giving and Watch
+
 ├── App.js # Main app with routing.
+
 ├── index.js # Entry point.
 
 ## 📖 Learning Highlights
